@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kola Adebayo
-- 👀 I’m interested in Microservices, Performant and High availability systems
+- 👀 I’m interested in Microservices and Performant/High availability systems
 - 🌱 Learning everyday
 - 📫 How to reach me kolabayo360@gmail.com
 
