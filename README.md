@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kola Adebayo
-- 👀 Interested in distributed and high availability systems/architectures
+- 👀 Mostly interested in serverside implementations 
 - 🌱 Learning everyday
 - 📫 How to reach me kolabayo360@gmail.com
 
