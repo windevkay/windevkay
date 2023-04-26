@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kola Adebayo
-- 👀 Mostly interested in serverside implementations 
+- 👀 Mostly writing Go code
 - 🌱 Learning everyday
 - 📫 How to reach me kolabayo360@gmail.com
 
