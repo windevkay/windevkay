@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kola Adebayo
 - 👀 Mostly writing Go and TypeScript. Tinker with linux/ bash/ shell scripting here and there.
-- 🌱 Learning everyday
+- 🌱 Backend and Infra Engineering
 - 📫 How to reach me kolabayo360@gmail.com
 
 <!---
