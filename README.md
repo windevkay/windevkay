@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kola Adebayo
-- 👀 Mostly writing Go code
+- 👀 Mostly writing Go code. Some experience with Python and Rust.
 - 🌱 Learning everyday
 - 📫 How to reach me kolabayo360@gmail.com
 
