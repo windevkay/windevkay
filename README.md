@@ -1,17 +1,16 @@
 # **Kola Adebayo's GitHub 💻**
 
-### 💡 **About Me**:
+🤓 _Senior Software Engineer based in_ 🇨🇦
 
-- Senior Software Engineer based in 🇨🇦
-- Comp Sci and Telecoms Engineering 🤓
+---
 
 ### 🚀 **Interests**:
 
-- ➡️ Backend/API and Services development
-- ➡️ Scripting & Network Programming
-- ➡️ Systems Programming
-- ➡️ Distributed Applications
-- ➡️ Cloud Native Applications
+- 🖥️ Backend/API and Services development
+- 🔌 Scripting & Network Programming
+- 🦀 Systems Programming
+- 🪄 Distributed Applications
+- ☁️ Cloud Native Applications
 
 ### 🛠️ **Building With**:
 
