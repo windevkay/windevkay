@@ -1,6 +1,6 @@
-## **Kola Adebayo's GitHub 💻**
+## **Hello there, welcome to my GitHub**
 
-🤓 _Software Engineer based in_ 🇨🇦 🍁
+🤓 _I am a Software Engineer based in_ 🇨🇦 🍁
 
 ---
 
@@ -9,7 +9,7 @@
 - 🖥️ Backend/API and Services development
 - 🔌 Scripting & Network Programming
 - 🦀 Systems Programming
-- 🪄 Distributed Applications
+- 🐙 Distributed Applications
 - ☁️ Cloud Native Applications
 
 ### 🛠️ **Building With**:
