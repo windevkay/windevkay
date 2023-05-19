@@ -1,7 +1,25 @@
-- 👋 Hi, I’m Kola Adebayo
-- 👀 Mostly writing Go and TypeScript. Tinker with linux/ bash/ shell scripting/ raspberry pi
-- 🌱 Backend and Infra
-- 📫 How to reach me kolabayo360@gmail.com
+# **Kola Adebayo's GitHub 💻**
+
+### 💡 **About Me**:
+
+- Senior Software Engineer based in 🇨🇦
+- Comp Sci and Telecoms Engineering 🤓
+
+### 🚀 **Interests**:
+
+- ➡️ Backend/API and Services development
+- ➡️ Scripting & Network Programming
+- ➡️ Systems Programming
+- ➡️ Distributed Applications
+- ➡️ Cloud Native Applications
+
+### 🛠️ **Building With**:
+
+Go, TypeScript, Python, Rust 🍀 Tinker with Linux / Bash
+
+### 📪 **Reach Me**:
+
+*kolabayo360@proton.me*
 
 <!---
 windevkay/windevkay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
