@@ -7,7 +7,7 @@
 ### 🚀 **Interests**:
 
 - 🖥️ Backend/API and Services development
-- 🔌 Scripting & Network Programming
+- 🔌 DevOps / Infra / Network Programming
 - 🦀 Systems Programming
 - 🐙 Distributed Applications
 - ☁️ Cloud Native Applications
