@@ -1,6 +1,6 @@
 ## **Kola Adebayo's GitHub 💻**
 
-🤓 _Software Engineer based in_ 🇨🇦
+🤓 _Software Engineer based in_ 🇨🇦 🍁
 
 ---
 
