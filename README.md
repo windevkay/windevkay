@@ -1,13 +1,12 @@
-## **Hello there**
+## **Hello there 👋**
 
-🤓 I am a Software Engineer based in 🇨🇦 🍁
+I am a Software Engineer based in Canada 🇨🇦 🍁
 
 ---
 
-### 🚀 **Interests**:
+### 💡 **Interests**:
 
-- 🖥️ API and Serverside development
-- 🔌 DevOps & Infra
+- 🚀 API and Serverside development
 - 🐙 Distributed Applications
 - ☁️ Cloud Native Applications
 
