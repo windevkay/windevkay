@@ -1,20 +1,19 @@
-## **Hello there, welcome to my GitHub**
+## **Hello there**
 
-🤓 _I am a Software Engineer based in_ 🇨🇦 🍁
+🤓 I am a Software Engineer based in 🇨🇦 🍁
 
 ---
 
 ### 🚀 **Interests**:
 
-- 🖥️ Backend/API and Services development
-- 🔌 DevOps / Infra / Network Programming
-- 🦀 Systems Programming
+- 🖥️ API and Serverside development
+- 🔌 DevOps & Infra
 - 🐙 Distributed Applications
 - ☁️ Cloud Native Applications
 
 ### 🛠️ **Building With**:
 
-Go, TypeScript, Python, Rust 🍀 Tinker with Linux / Bash
+Go, TypeScript, Python 🍀 Tinker with Linux, Bash
 
 ### 📪 **Reach Me**:
 
