@@ -1,6 +1,6 @@
 ## **Hello there 👋**
 
-I am a Software Engineer based in Canada 🇨🇦 🍁
+I'm a Software Engineer based in Canada 🇨🇦 🍁
 
 ---
 
