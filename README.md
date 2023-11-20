@@ -1,4 +1,4 @@
-## **Hello there 👋**
+## **Hi there 👋**
 
 I'm a Software Engineer based in Calgary, Canada 🇨🇦 🍁
 
