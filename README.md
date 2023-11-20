@@ -8,7 +8,7 @@ I'm a Software Engineer based in Calgary, Canada 🇨🇦 🍁
 
 - 🚀 Web Services
 - 🐙 Distributed Applications
-- ☁️ Cloud Native Applications
+- ☁️ Cloud Native Software
 
 ### 🛠️ **Building With**:
 
