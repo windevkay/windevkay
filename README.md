@@ -12,7 +12,7 @@ I'm a Software Engineer based in Canada 🇨🇦 🍁
 
 ### 🛠️ **Building With**:
 
-Go, TypeScript, Python 🍀 Tinker with Linux, Bash
+Go, Python, C++, Bash
 
 ### 📪 **Reach Me**:
 
