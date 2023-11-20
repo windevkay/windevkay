@@ -1,12 +1,12 @@
 ## **Hello there 👋**
 
-I'm a Software Engineer based in Canada 🇨🇦 🍁
+I'm a Software Engineer based in Calgary, Canada 🇨🇦 🍁
 
 ---
 
-### 💡 **Interests**:
+### **Interested in**:
 
-- 🚀 API and Serverside development
+- 🚀 Web Services
 - 🐙 Distributed Applications
 - ☁️ Cloud Native Applications
 
