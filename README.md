@@ -12,7 +12,7 @@ I'm a Software Engineer based in Calgary, Canada 🇨🇦 🍁
 
 ### 🛠️ **Building With**:
 
-Go, Bash
+Go, Python
 
 ### 📪 **Reach Me**:
 
