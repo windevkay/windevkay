@@ -10,11 +10,9 @@ I'm a Software Engineer based in Calgary, Canada 🇨🇦 🍁
 - 🐙 Distributed Applications
 - ☁️ Cloud Native Software
 
-### 🛠️ **Building With**:
+### 🛠️ **Building With**: GO, PYTHON, NODEJS
 
-Go, Python
-
-### 📪 **Reach Me**:
+### 📪 **Contact**:
 
 *kolabayo360@proton.me*
 
