@@ -1,6 +1,6 @@
 ## **Hi there 👋**
 
-I'm a Software Engineer based in Calgary, Canada 🇨🇦 🍁
+I'm a Software Engineer based in Calgary, Canada 🇨🇦 🍁 Mostly building stuff with GO
 
 ---
 
@@ -9,8 +9,6 @@ I'm a Software Engineer based in Calgary, Canada 🇨🇦 🍁
 - 🚀 Web Services
 - 🐙 Distributed Applications
 - ☁️ Cloud Native Software
-
-🛠️ **Building With**: GO / PYTHON
 
 📪 **Contact**: *kolabayo360@proton.me*
 
