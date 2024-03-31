@@ -1,6 +1,6 @@
 ## **Hi there 👋**
 
-I'm a Software Engineer based in Calgary, Canada 🇨🇦 🍁 Mostly building stuff with GO
+I'm a Software Engineer based in Calgary, Canada 🇨🇦 🍁 Mostly building with GO and Python
 
 ---
 
